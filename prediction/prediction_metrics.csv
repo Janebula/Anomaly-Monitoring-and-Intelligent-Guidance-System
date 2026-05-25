@@ -1,0 +1,4 @@
+﻿model,lag_hours,rmse,r2
+Random Forest,6,68.350651,0.996826
+Random Forest,12,69.12479,0.996754
+Random Forest,24,62.304782,0.997363

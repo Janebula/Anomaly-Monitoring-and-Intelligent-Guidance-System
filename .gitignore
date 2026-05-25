@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 压缩包（已有解压后的文件夹，无需重复上传）
+*.zip
+*.rar
+*.7z
+
+# 与本作业无关的其他项目
+Auto-claude-code-research-in-sleep-main/
+
+# 原始作业压缩包目录（若与 final_assignment 重复可保留本地不上传）
+# 大作业/
